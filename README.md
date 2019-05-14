@@ -9,8 +9,6 @@ To verify your installation you could run
 
 	$ docker run hello-world
 
-
 ## Tutorial
 
 You will find my tutorial here: [Docker tutorial](https://hackmd.io/s/S1mLQ-P3E)
-
